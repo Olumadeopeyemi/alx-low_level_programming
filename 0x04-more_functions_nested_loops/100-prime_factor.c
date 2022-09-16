@@ -20,7 +20,7 @@ int main(void)
 		continue;
 	}
 
-	for (inc = 3; inc < number / 2; inc += 2)01~
+	for (inc = 3; inc < number / 2; inc += 2)
 	{
 		if (number % inc == 0)
 			number /= inc;
